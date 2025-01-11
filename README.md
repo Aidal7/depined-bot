@@ -3,7 +3,7 @@
 - Multi Account just copy file
 
 Register here : https://app.depined.org/dashboard
-Code : ```bash
+Code :
 
 
 ## Get token Bearer
