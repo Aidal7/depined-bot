@@ -18,7 +18,7 @@ Code :
 
 Clone repo
 ```bash
-https://github.com/Aidal7/depined-bot.git
+git clone https://github.com/Aidal7/depined-bot.git
 cd depined-bot
 ```
 install dependen
