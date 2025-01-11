@@ -5,7 +5,9 @@
 Register here : https://app.depined.org/dashboard
 
 ## Get token Bearer
-1. Login to your account https://app.depined.org/dashboard
+
+1. Login to your account
+    https://app.depined.org/dashboard
 
 2.inspect Windows just F12 / Phone just Developer tools 
 
