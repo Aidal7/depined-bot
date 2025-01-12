@@ -32,3 +32,8 @@ Run Script
 ```bash
 node index.js
 ```
+if you use test.js
+```bash
+node test.js
+```
+you have to add ( proxy.txt and data.txt ) files.
