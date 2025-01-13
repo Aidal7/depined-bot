@@ -6,7 +6,7 @@ Register here : https://app.depined.org/dashboard
 
 Code : 
 ```bash
-p6JCsmReWKPt
+SoBrYcwOaUY8
 ```
 
 ## Get token Bearer
