@@ -11,7 +11,9 @@ my code is limit
 
 2.inspect Windows just F12 / Phone just Developer tools 
 
-3.Go to Aplication Token>eyjxx
+3.klick on Aplication > storage
+
+4.Go to Aplication Token>eyjxx
 
 # Run Bot
 
